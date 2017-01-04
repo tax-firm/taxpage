@@ -9,7 +9,6 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/bg.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -83,8 +82,8 @@ hr {
 .box {
     margin-bottom: 20px;
     padding: 30px 15px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+    background: #c96d34;
+    background: rgba(201, 109, 52, 0.75);
 }
 
 .intro-text {
@@ -106,8 +105,8 @@ hr {
 }
 
 footer {
-    background: #fff;
-    background: rgba(255,255,255,0.9);
+    background: #c96d34;
+    background: rgba(201, 109, 52, 0.75);
 }
 
 footer p {
@@ -126,7 +125,7 @@ footer p {
         font-size: 5em;
         font-weight: 700;
         line-height: normal;
-        color: #fff;
+        color: #c96d34;
     }
 
     .top-divider {
@@ -148,7 +147,7 @@ footer p {
         font-size: 1.25em;
         font-weight: 400;
         letter-spacing: 3px;
-        color: #fff;
+        color: #c96d34;
     }
 
     .navbar {
@@ -165,8 +164,8 @@ footer p {
 
     .navbar-default {
         border: none;
-        background: #fff;
-        background: rgba(255,255,255,0.9);
+        background: #c96d34;
+        background: rgba(201, 109, 52, 0.75);
     }
 
     .nav>li>a {
