@@ -1,8 +1,8 @@
 require 'test_helper'
 
-class PricesControllerTest < ActionDispatch::IntegrationTest
+class FaqControllerTest < ActionDispatch::IntegrationTest
   test "should get index" do
-    get prices_index_url
+    get faq_index_url
     assert_response :success
   end
 
